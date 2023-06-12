@@ -1,17 +1,23 @@
 # 基于Vue+Node.js+MySQL的企业工资管理系统
 
-#### 介绍
+#### 一、介绍
 基于Vue+Node.js+MySQL的企业工资管理系统
+1. 本系统主要面向公司人事管理等高管，供其进行对公司员工情况的记录、编辑等，以更好的辅助公司流程进行。
+2. 该系统适合于前端新手练手学习Vue+NodeJS开发学习，在还没有学习Java、Spring系列等开发后端的语言，可利用Vue+Node的开发模式去深入学习前端知识
+3. 该系统也可以当作web期末大作业使用，实用高效，且可扩展形式很多，可以扩展成高校课程平时成绩管理系统、学生管理系统等形式皆可
 
-#### 软件架构
-软件架构说明
+
+#### 二、技术说明
+1. Node.js是一种JavaScript运行时环境，可以在服务器端运行JavaScript代码，它的出现使得JavaScript不再局限于浏览器端的运行。Vue.js是一种用于构建用户界面的渐进式框架，它可以轻松地与Node.js进行集成。
+
+2. 使用Node.js和Vue.js可以建立起整个Web应用程序的框架，既可以开发后端代码，也可以开发前端代码。Node.js提供了许多有用的工具和库，可以方便地进行服务器端开发，包括Express.js，Koa.js等，这些框架提供了路由、中间件等功能，方便处理HTTP请求和响应。同时，Vue.js也提供了一些有用的库和工具，可以帮助我们更快地构建前端的用户界面。
+
+3. 当将Node.js和Vue.js结合在一起使用时，我们可以利用Node.js提供的API来开发后端，与数据库进行交互，同时前端使用Vue.js渲染UI，并通过API与后端进行通信。这种开发方式被称为“全栈式”的开发，可以大大提高开发效率，也方便地维护整个Web应用程序。
 
 
-#### 安装教程
+#### 三、效果图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
 
 #### 使用说明
 
@@ -26,12 +32,3 @@
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
